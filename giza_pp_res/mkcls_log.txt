@@ -1,0 +1,21 @@
+nohup: ignoring input
+
+***** 1 runs. (algorithm:TA)*****
+;KategProblem:cats: 100   words: 8072
+
+start-costs: MEAN: 585780 (585780-585780)  SIGMA:0   
+  end-costs: MEAN: 527058 (527058-527058)  SIGMA:0   
+   start-pp: MEAN: 662.902 (662.902-662.902)  SIGMA:0   
+     end-pp: MEAN: 228.278 (228.278-228.278)  SIGMA:0   
+ iterations: MEAN: 188845 (188845-188845)  SIGMA:0   
+       time: MEAN: 4.24448 (4.24448-4.24448)  SIGMA:0   
+
+***** 1 runs. (algorithm:TA)*****
+;KategProblem:cats: 100   words: 9979
+
+start-costs: MEAN: 497354 (497354-497354)  SIGMA:0   
+  end-costs: MEAN: 443510 (443510-443510)  SIGMA:0   
+   start-pp: MEAN: 1262.4 (1262.4-1262.4)  SIGMA:0   
+     end-pp: MEAN: 403.55 (403.55-403.55)  SIGMA:0   
+ iterations: MEAN: 234389 (234389-234389)  SIGMA:0   
+       time: MEAN: 5.01631 (5.01631-5.01631)  SIGMA:0   

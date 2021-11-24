@@ -1,0 +1,2 @@
+/data1/wbxu/giza-pp/mkcls-v2/mkcls -p/data1/wbxu/test_data/en_tok.txt -V/data1/wbxu/giza_pp_res/en_tok.vcb.classes opt
+/data1/wbxu/giza-pp/mkcls-v2/mkcls -p/data1/wbxu/test_data/ch_tok.txt -V/data1/wbxu/giza_pp_res/ch_tok.vcb.classes opt

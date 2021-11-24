@@ -1,0 +1,2 @@
+/data1/wbxu/giza_pp_res$ /data1/wbxu/giza-pp/GIZA++-v2/snt2cooc.out /data1/wbxu/giza_pp_res/en_tok.vcb /data1/wbxu/giza_pp_res/ch_tok.vcb /data1/wbxu/giza_pp_res/en_tok_ch_tok.snt > en_ch_tok.cooc
+/data1/wbxu/giza-pp/GIZA++-v2/snt2cooc.out /data1/wbxu/giza_pp_res/ch_tok.vcb /data1/wbxu/giza_pp_res/en_tok.vcb /data1/wbxu/giza_pp_res/ch_tok_en_tok.snt > ch_en_tok.cooc

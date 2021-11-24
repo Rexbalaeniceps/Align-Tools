@@ -1,0 +1,2 @@
+/data1/wbxu/giza-pp/GIZA++-v2/GIZA++ -S /data1/wbxu/giza_pp_res/en_tok.vcb -T /data1/wbxu/giza_pp_res/ch_tok.vcb -C /data1/wbxu/giza_pp_res/en_tok_ch_tok.snt -CoocurrenceFile /data1/wbxu/giza_pp_res/en_ch_tok.cooc -o en2ch -OutputPath /data1/wbxu/en2ch
+/data1/wbxu/giza-pp/GIZA++-v2/GIZA++ -S /data1/wbxu/giza_pp_res/ch_tok.vcb -T /data1/wbxu/giza_pp_res/en_tok.vcb -C /data1/wbxu/giza_pp_res/ch_tok_en_tok.snt -CoocurrenceFile /data1/wbxu/giza_pp_res/ch_en_tok.cooc -o ch2en -OutputPath /data1/wbxu/ch2en
